@@ -12,6 +12,7 @@
 • ✨ Email:- izhanhassan007@gmail.com.    
 • ✨ Linkedln:- https://www.linkedin.com/in/syed-izhan-hassan-6a07242a7/    
 • ✨ Facebook:- https://www.facebook.com/izhanhassan007/    
+• ✨ Truelancer:- https://www.truelancer.com/freelancer/tluser918ed100  
 
 <!---
 IzhanHassan007/IzhanHassan007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
