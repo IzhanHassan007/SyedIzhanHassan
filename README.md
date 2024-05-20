@@ -6,7 +6,7 @@
 • ⚡ Experties in Full Stack Developer || HTML || CSS || JavaScript || Angular || React || Node.js || Mongo DB || Next.js || Python || PHP || SQL.          
 • 💞️ I’m looking to collaborate on Web App Projects.    
 • 🔭 I’m currently working on [Multiple Web-App Projects].    
-• 👨‍💻 All of my projects are available at (IzhanHassan007/Github).    
+• 👨‍💻 All of my projects are available at ([IzhanHassan007/Github](https://github.com/IzhanHassan007?tab=repositories)).    
 • ✨ Available for INTERNSHIP (Web-Developmenet).    
 • 📫 How to reach me,    
 • ✨ Email:- izhanhassan007@gmail.com.    
