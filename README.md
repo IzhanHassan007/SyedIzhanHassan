@@ -1,6 +1,6 @@
 ![GitHub Cover](https://github.com/IzhanHassan007/IzhanHassan007/assets/163643610/45b9246e-4532-44d2-9c2f-03ad28fd7fd3)
 
-• **👋 Hi, I’m @IzhanHassan007.  **   
+• **👋 Hi, I’m @SyedIzhanHassan.  **   
 • 💪🏻 I'm a Software Engineer.    
 • 👨‍💻 I'm a full-stack Developer from Pakistan.    
 • ⚡ Experties in Full Stack Developer || HTML || CSS || JavaScript || Angular || React || Node.js || Mongo DB || Next.js || Python || PHP || SQL.          
