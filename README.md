@@ -1,4 +1,4 @@
-![GitHub Cover](https://github.com/IzhanHassan007/IzhanHassan007/assets/163643610/45b9246e-4532-44d2-9c2f-03ad28fd7fd3)
+![GitHub Cover]![Uploading LinkedIn Banner.png…]()
 
 • **👋 Hi, I’m @SyedIzhanHassan.  **   
 • 💪🏻 I'm a Software Engineer.    
