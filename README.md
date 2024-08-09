@@ -1,4 +1,4 @@
-![GitHub Cover]![Uploading LinkedIn Banner.png…]()
+![91382-web-development](https://github.com/IzhanHassan007/IzhanHassan007/assets/163643610/c1c92335-3030-4004-b1f5-fa9655ba172f)
 
 • **👋 Hi, I’m @SyedIzhanHassan.  **   
 • 💪🏻 I'm a Software Engineer.    
@@ -14,7 +14,7 @@
 • ✨ Facebook:- https://www.facebook.com/izhanhassan007/    
 • ✨ Truelancer:- https://www.truelancer.com/freelancer/tluser918ed100  
 
-![91382-web-development](https://github.com/IzhanHassan007/IzhanHassan007/assets/163643610/c1c92335-3030-4004-b1f5-fa9655ba172f)
+
 
 
 <!---
