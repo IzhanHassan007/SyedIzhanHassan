@@ -3,11 +3,10 @@
 • **👋 Hi, I’m @SyedIzhanHassan.  **   
 • 💪🏻 I'm a Software Engineer.    
 • 👨‍💻 I'm a full-stack Developer from Pakistan.    
-• ⚡ Experties in Full Stack Developer || HTML || CSS || JavaScript || Angular || React || Node.js || Mongo DB || Next.js || Python || PHP || SQL.          
+• ⚡ Experties in Wev and Mobile App Developement || HTML || CSS || JavaScript || Dart || Flutter || Python.     
 • 💞️ I’m looking to collaborate on Web App Projects.    
 • 🔭 I’m currently working on [Multiple Web-App Projects].    
 • 👨‍💻 All of my projects are available at ([IzhanHassan007/Github](https://github.com/IzhanHassan007?tab=repositories)).    
-• ✨ Available for INTERNSHIP (Web-Developmenet).    
 • 📫 How to reach me,    
 • ✨ Email:- izhanhassan007@gmail.com.    
 • ✨ Linkedln:- https://www.linkedin.com/in/syed-izhan-hassan-6a07242a7/    
