@@ -1,22 +1,24 @@
-![91382-web-development](https://github.com/IzhanHassan007/IzhanHassan007/assets/163643610/c1c92335-3030-4004-b1f5-fa9655ba172f)
+👋 Hey there! I'm Syed Izhan Hassan
+🧑‍💻 Beginner Full Stack Developer | 📱 Learning Flutter | 🔧 Exploring Node.js
 
-• **👋 Hi, I’m @SyedIzhanHassan.  **   
-• 💪🏻 I'm a Software Engineer.    
-• 👨‍💻 I'm a full-stack Developer from Pakistan.    
-• ⚡ Experties in Wev and Mobile App Developement || HTML || CSS || JavaScript || Dart || Flutter || Python.     
-• 💞️ I’m looking to collaborate on Web App Projects.    
-• 🔭 I’m currently working on [Multiple Web-App Projects].    
-• 👨‍💻 All of my projects are available at ([IzhanHassan007/Github](https://github.com/IzhanHassan007?tab=repositories)).    
-• 📫 How to reach me,    
-• ✨ Email:- izhanhassan007@gmail.com.    
-• ✨ Linkedln:- https://www.linkedin.com/in/syed-izhan-hassan-6a07242a7/    
-• ✨ Facebook:- https://www.facebook.com/izhanhassan007/    
-• ✨ Truelancer:- https://www.truelancer.com/freelancer/tluser918ed100  
+I'm a Software Development enthusiast from Karachi, Pakistan, currently on a learning journey to become a skilled Full-Stack Developer.
+Right now, I’m focusing on Flutter to build mobile apps and planning to move towards backend development with Node.js soon.
 
-![GitHub Cover]![Uploading LinkedIn Banner.png…]()
+🚀 My Learning Journey:
+📱 Flutter & Dart – Learning to build smooth and modern mobile apps
+🌐 HTML | CSS | JavaScript – Creating simple and responsive websites
+⚙️ Next Stop: Backend development with Node.js
 
+💡 Goals:
+🧠 Keep learning and improving every day
+🤝 Collaborate with other developers on beginner-friendly projects
+🚀 Build real-world apps and grow my portfolio
 
-<!---
-IzhanHassan007/IzhanHassan007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📬 Let’s Connect:
+📧 Email: izhanhassan007@gmail.com
+💼 LinkedIn: Syed Izhan Hassan
+🌍 Facebook: Syed Izhan Hassan
+
+🛤️ "I'm not a pro yet — but I'm learning every single day to become one!"
+📍 Follow my journey here on GitHub: IzhanHassan007
+
